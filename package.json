@@ -1,0 +1,26 @@
+{
+  "name": "tarea5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BenyaminGaleano/tarea5-awa.git"
+  },
+  "author": "Josue Galeano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenyaminGaleano/tarea5-awa/issues"
+  },
+  "homepage": "https://github.com/BenyaminGaleano/tarea5-awa#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.2"
+  }
+}
